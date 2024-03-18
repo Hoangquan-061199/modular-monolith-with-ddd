@@ -2,11 +2,6 @@
 
 Full Modular Monolith .NET application with Domain-Driven Design approach.
 
-
-## CI
-
-![](https://github.com/kgrzybek/modular-monolith-with-ddd/workflows/Build%20Pipeline/badge.svg)
-
 ## FrontEnd application
 
 FrontEnd application : [Modular Monolith With DDD: FrontEnd React application](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react)
